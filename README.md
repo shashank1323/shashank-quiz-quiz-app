@@ -21,17 +21,55 @@
 
 
 # CONCEPTS
+ 
  # DATA TYPES USED :
  
-  VARIABLE var   # changeable
+   VARIABLE var   # changeable
   
-  VARIABLE varx  # unchangeable (constants)
+  
+   VARIABLE varx  # unchangeable (constants)
+   
    INT # integer values like numbers 
+   
    FLOAT # number with decimals
    
+   IF ELSE CONDITION USED AS EXAMPLES USED IN MAIN ACTIVITY (KOTLIN FILE )
    
+    if(selecedOption!=0)
+            {
+                val question=questionList!![currentPosition-1]
+                if(selecedOption!=question.correct_ans)
+                {
+                   setColor(selecedOption,R.drawable.wrong_question_option)
+                }else{
+                    score++;
+                }
+                setColor(question.correct_ans,R.drawable.correct_question_option)
+                if(currentPosition==questionList!!.size)
+                    submit.text="THANKS,SEE U AGAIN"
+                else
+                    submit.text="Press NEXT Twice"
+            }else{
+                currentPosition++
+                when{
+                    currentPosition<=questionList!!.size->{
+                        setQuestion()
+                    }
+                    else->{
+                       var intent= Intent(this,Result::class.java)
+                        intent.putExtra(setData.name,Name.toString())
+                        intent.putExtra(setData.score,score.toString())
+                        intent.putExtra("total size",questionList!!.size.toString())
 
+                        startActivity(intent)
+                        finish()
+                    }
+                }
+            }
+            selecedOption=0
+        }
 
+    }
 
 
 
@@ -77,7 +115,7 @@
 </manifest>
 
 
-# questionaire data setting (get response) 
+# questionaire data setting MAIN KOTLIN FILE (get response) 
 
 package com.example.quizapp
 
@@ -108,9 +146,37 @@ object setData {
   </group>
 </vector>
   
-  # 
+  # gradle tool
+ Gradle is a build automation tool for multi-language software development. It controls the development process in the tasks of compilation and packaging to testing, deployment, and publishing. 
+ // Top-level build file where you can add configuration options common to all sub-projects/modules.
+buildscript {
+    ext.kotlin_version = "1.4.31"
+    repositories {
+        google()
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:7.0.4'
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
 
+        // NOTE: Do not place your application dependencies here; they belong
+        // in the individual module build.gradle files
+    }
+}
 
+allprojects {
+    repositories {
+        google()
+        jcenter()
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}
+
+# 
+ 
 
 
 
@@ -130,7 +196,7 @@ object setData {
 
 
 # FUTURE SCOPE
-
+# the future scope is which here mainly in future applications it can be used for many subjects or topics just question data is chnaged ,so that is free synatx any one with basic ko
 
 
 
