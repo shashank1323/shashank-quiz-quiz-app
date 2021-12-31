@@ -118,6 +118,18 @@ here it changes the user input and change of text size and colors ,audio if appl
 
 # USED FOR GETTING RESPONSE WHEN ANSWER OPTION IS CLICKED CORRECT OR WRONG
 
+
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+<stroke android:color="@color/purple_700"
+    android:width="2dp"></stroke>
+
+    <solid android:color="@color/white"/>
+    <corners android:radius="5dp"/>
+
+</shape>
 <?xml version="1.0" encoding="utf-8"?>
 <shape xmlns:android="http://schemas.android.com/apk/res/android"
     android:shape="rectangle">
