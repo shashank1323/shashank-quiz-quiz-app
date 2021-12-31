@@ -129,12 +129,12 @@ here it changes the user input and change of text size and colors ,audio if appl
     <solid android:color="@color/white"/>
     <corners android:radius="5dp"/>
 
-</shape>
-<?xml version="1.0" encoding="utf-8"?>
-<shape xmlns:android="http://schemas.android.com/apk/res/android"
-    android:shape="rectangle">
+# </shape>
+ <?xml version="1.0" encoding="utf-8"?>
+ <shape xmlns:android="http://schemas.android.com/apk/res/android"
+     android:shape="rectangle">
 
-
+ 
     <solid android:color="#4CAF50"/>
     <corners android:radius="5dp"/>
 
