@@ -12,7 +12,7 @@
 # it will be useful to many people to test themselves in general awareness with score and appraisal also given at END
 # useful for every student and sir to check their progress in the partcular subject ...
 
-# WORKING 
+# WORKING ???
 
 # when every app user gives correct answer out of option indicates GREEN FOR CORRECT ANSWER  and RED FOR WRONG ANSWER and then after attempting all answers it will show score
 # it shows the perfect view of test assesment of questions
@@ -20,7 +20,7 @@
 
 
 
-# CONCEPTS
+# CONCEPTS ???? 
  
  # DATA TYPES USED :
    MAIN CLASS
@@ -130,7 +130,7 @@ here it changes the user input and change of text size and colors ,audio if appl
  
 
 
-# FUNCTONALITY OR FUNCTIONS USED :-
+# FUNCTONALITY OR FUNCTIONS USED  ????
 
 # android manifest it describes of android app name and themes used and versions given,label app name icon image ,resolution size etc...
 
@@ -230,7 +230,7 @@ class Result : AppCompatActivity() {
 }
   
 
-# APP SCREENSHOT LINKS VIA MEGA 
+# APP SCREENSHOT LINKS VIA MEGA ??
  
  QUESTION LAYOUT 
  https://mega.nz/file/IhciHJwA#VeAJGS_2xn-d9Y_xvMcWMFMEOKRSytCjge6pYhEwSjk
@@ -252,7 +252,7 @@ class Result : AppCompatActivity() {
 
 
 
-# APPLICATION LINK
+# APPLICATION LINK ????
 
  DOWNLOAD LINK MEGA.NZ IS USED FOR DOWNLOADING 
 
@@ -264,7 +264,7 @@ https://mega.nz/file/FsEyXZKI#qtoE-aF4OY_OZ2P2nyq85T6K8QFafo7wQZb81RvT418
 
 
 
-# FUTURE SCOPE
+# FUTURE SCOPE ????
 # the future scope is which here mainly in future applications it can be used for many subjects or topics just question data is chnaged ,so that is code free syntax any one with basic kotlin learner can modify and use it for personal use ,thank you ! !
 
 THANK YOU FOR AKSHAT CHOWDARY SIR AND TUSHAR SHARMA SIR
