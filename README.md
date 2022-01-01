@@ -241,7 +241,12 @@ class Result : AppCompatActivity() {
 
     }
 }
-
+# APP SCREENSHOTS
+ https://github.com/shashank1323/shashank-quiz-quiz-app/issues/1#issue-1091511374
+ 
+ 
+ 
+ 
 # APPLICATION LINK  
 
  DOWNLOAD LINK IS DIRECTED TO MEGA.NZ IS USED FOR DOWNLOADING 
