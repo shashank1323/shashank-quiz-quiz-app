@@ -20,7 +20,7 @@
 
 
 
-# CONCEPTS ???? 
+# CONCEPTS 
  
  # DATA TYPES USED :
    MAIN CLASS
@@ -80,7 +80,7 @@
 
     }
     
-    # gradle tool
+   GRADLE TOOL 
  Gradle is a build automation tool for multi-language software development. It controls the development process in the tasks of compilation and packaging to testing, deployment, and publishing. 
  // Top-level build file where you can add configuration options common to all sub-projects/modules.
 buildscript {
