@@ -40,7 +40,7 @@
    
    String means OUR OWN TEXT OR ANYTHING CAN BE DISPLAYED BETWEEN QUOTES
   
-  # IF ELSE CONDITION USED AS EXAMPLES USED IN MAIN ACTIVITY (KOTLIN FILE )
+  # IF ELSE CONDITION USED AS EXAMPLES USED IN MAIN ACTIVITY FOR SETTING COLOUR OF ANSWER (KOTLIN FILE )
    
     if(selecedOption!=0)
             {
@@ -143,7 +143,7 @@ here it changes the user input and change of text size and colors ,audio if appl
 
 # FUNCTONALITY OR FUNCTIONS USED  
 
- android manifest it describes of android app name and themes used and versions given,label app name icon image ,resolution size etc...
+ # android manifest it describes of android app name and themes used and versions given,label app name icon image ,resolution size etc...
 
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
@@ -180,7 +180,7 @@ here it changes the user input and change of text size and colors ,audio if appl
 </manifest>
 
 
-# questionaire data setting MAIN KOTLIN FILE (get response) 
+# questionaire data setting MAIN KOTLIN FILE giving and getting response (get response) 
 
 package com.example.quizapp
 
@@ -194,7 +194,7 @@ object setData {
 
        var question1 = QuestionData(
   
- # vectors used in android 
+ # VECTORS USED IN ANDROID  FOR CHANGING WIDTH,HEIGHT,COLOUR,SCALING RATIO,LIKE GROUPING ALL CALLED VECTOR
  
  <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="108dp"
@@ -213,6 +213,8 @@ object setData {
 </vector>
   
  # PACKAGES 
+ what is the package of present version ,it says that
+ 
  package com.example.quizapp
 
 import android.content.Intent
@@ -240,7 +242,7 @@ class Result : AppCompatActivity() {
     }
 }
 # APP SCREENSHOTS
- ![app quiz](https://user-images.githubusercontent.com/80461983/147851173-81224b66-0d7c-48cd-87f2-ef4b682effa4.png)
+![app quiz](https://user-images.githubusercontent.com/80461983/147851173-81224b66-0d7c-48cd-87f2-ef4b682effa4.png)
 ![QUESTION LAYOUT ACTIVITY LIKE TEMP](https://user-images.githubusercontent.com/80461983/147851175-10d13836-08a1-4833-83bc-7c67f6f41ec8.png)
 ![WhatsApp Image 2021-12-31 at 15 26 23 (1) (1)](https://user-images.githubusercontent.com/80461983/147851177-2bc562a2-2818-43a5-b537-ef61d02ce525.jpeg)
 ![WhatsApp Image 2021-12-31 at 15 26 23 (2)](https://user-images.githubusercontent.com/80461983/147851178-3c31e95a-2af4-4747-ad9e-d4d1392a6ddf.jpeg)
