@@ -242,7 +242,12 @@ class Result : AppCompatActivity() {
     }
 }
 # APP SCREENSHOTS
- https://github.com/shashank1323/shashank-quiz-quiz-app/issues/1#issue-1091511374
+ ![app quiz](https://user-images.githubusercontent.com/80461983/147851173-81224b66-0d7c-48cd-87f2-ef4b682effa4.png)
+![QUESTION LAYOUT ACTIVITY LIKE TEMP](https://user-images.githubusercontent.com/80461983/147851175-10d13836-08a1-4833-83bc-7c67f6f41ec8.png)
+![WhatsApp Image 2021-12-31 at 15 26 23 (1) (1)](https://user-images.githubusercontent.com/80461983/147851177-2bc562a2-2818-43a5-b537-ef61d02ce525.jpeg)
+![WhatsApp Image 2021-12-31 at 15 26 23 (2)](https://user-images.githubusercontent.com/80461983/147851178-3c31e95a-2af4-4747-ad9e-d4d1392a6ddf.jpeg)
+![ICON EDIT ](https://user-images.githubusercontent.com/80461983/147851179-886880c8-b4d6-45fc-8d3b-e1357a3cbd37.png)
+
  
  
  
