@@ -38,9 +38,7 @@
    
    FLOAT # number with decimals
    
-  # STRINGS
-  
-   OUR OWN TEXT OR ANYTHING CAN BE DISPLAYED BETWEEN QUOTES
+   String means OUR OWN TEXT OR ANYTHING CAN BE DISPLAYED BETWEEN QUOTES
   
   # IF ELSE CONDITION USED AS EXAMPLES USED IN MAIN ACTIVITY (KOTLIN FILE )
    
@@ -80,7 +78,7 @@
 
     }
     
-  # GRADLE TOOL :
+  # GRADLE TOOL 
    
  Gradle is a build automation tool for multi-language software development. It controls the development process in the tasks of compilation and packaging to testing, deployment, and publishing. 
  // Top-level build file where you can add configuration options common to all sub-projects/modules.
