@@ -251,7 +251,7 @@ https://mega.nz/file/FsEyXZKI#qtoE-aF4OY_OZ2P2nyq85T6K8QFafo7wQZb81RvT418
 
 
 # FUTURE SCOPE 
-# the future scope is which here mainly in future applications it can be used for many subjects or topics just question data is changed ,so that is code free syntax any one with basic kotlin learner can modify and use it for personal use ,thank you ! !
+the future scope is which here mainly in future applications it can be used for many subjects or topics just question data is changed ,so that is code free syntax any one with basic kotlin learner can modify and use it for personal use ,thank you ! !
 
 THANKS TO AKSHAT PATEL SIR AND TUSHAR SHARMA SIR
  
