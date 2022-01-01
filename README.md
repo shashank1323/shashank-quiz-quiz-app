@@ -80,7 +80,8 @@
 
     }
     
-   GRADLE TOOL 
+  # GRADLE TOOL :
+   
  Gradle is a build automation tool for multi-language software development. It controls the development process in the tasks of compilation and packaging to testing, deployment, and publishing. 
  // Top-level build file where you can add configuration options common to all sub-projects/modules.
 buildscript {
@@ -240,46 +241,19 @@ class Result : AppCompatActivity() {
 
     }
 }
-  
 
-# APP SCREENSHOT LINKS VIA MEGA 
- 
- QUESTION LAYOUT 
- https://mega.nz/file/IhciHJwA#VeAJGS_2xn-d9Y_xvMcWMFMEOKRSytCjge6pYhEwSjk
- 
- APP ICON EDIT
- https://mega.nz/file/lwVgjLRK#9eGs-mzkzemdM6dixhrIQgGnYS3yGXdpMtzDyD3NsmQ
- 
- APP WHEN OPENS
- https://mega.nz/file/V5dSHRBT#Q1MkYactZ87SPamwivGEIdEHgEsjKEEL0j-DWhkICO4
- 
- MCQ UI SHOW(MULTIPLE CHOICE QUESTION USER INTERFACE SHOWING )
- https://mega.nz/file/RxdgXDST#pjjG7IBZszHE_7-mdc43vK6vxtpUnL6eL4Q2M60NZYA
- 
- APP WHEN CLOSES
- https://mega.nz/file/09UiGRyb#EN8IXJ1rGhnYjqPPVrZQbt0Nn3JHBKZowOHs-_PKwzM
+# APPLICATION LINK  
 
-
-
-
-
-
-# APPLICATION LINK 
-
- DOWNLOAD LINK MEGA.NZ IS USED FOR DOWNLOADING 
+ DOWNLOAD LINK IS DIRECTED TO MEGA.NZ IS USED FOR DOWNLOADING 
 
 https://mega.nz/file/FsEyXZKI#qtoE-aF4OY_OZ2P2nyq85T6K8QFafo7wQZb81RvT418
-
-
-
-
 
 
 
 # FUTURE SCOPE 
 # the future scope is which here mainly in future applications it can be used for many subjects or topics just question data is chnaged ,so that is code free syntax any one with basic kotlin learner can modify and use it for personal use ,thank you ! !
 
-THANKS TO AKSHAT CHOWDARY SIR AND TUSHAR SHARMA SIR
+THANKS TO AKSHAT PATEL SIR AND TUSHAR SHARMA SIR
  
 
 
