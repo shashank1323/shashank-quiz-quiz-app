@@ -4,18 +4,18 @@
 
 # PURPOSE 
 
-# i made this app for enhancing knowledge in general awareness and even subject of basic electrical engineering for my sir and testing his students by conducting quiz with 10  questions covering the high level questions to check their score  which help them in part b of examination like mock test 
+ i made this app for enhancing knowledge in general awareness and even subject of basic electrical engineering for my sir and testing his students by conducting quiz with 10  questions covering the high level questions to check their score  which help them in part b of examination like mock test 
 
 
 # USEFUL FOR 
 
-# it will be useful to many people to test themselves in general awareness with score and appraisal also given at END
-# useful for every student and sir to check their progress in the partcular subject ...
+ it will be useful to many people to test themselves in general awareness with score and appraisal also given at END
+ useful for every student and sir to check their progress in the partcular subject ...
 
 # WORKING 
 
-# when every app user gives correct answer out of option indicates GREEN FOR CORRECT ANSWER  and RED FOR WRONG ANSWER and then after attempting all answers it will show score
-# it shows the perfect view of test assesment of questions
+ when every app user gives correct answer out of option indicates GREEN FOR CORRECT ANSWER  and RED FOR WRONG ANSWER and then after attempting all answers it will show score
+ it shows the perfect view of test assesment of questions
 
 
 
@@ -40,7 +40,7 @@
    
   # STRINGS
   
-  # OUR OWN TEXT OR ANYTHING CAN BE DISPLAYED BETWEEN QUOTES
+   OUR OWN TEXT OR ANYTHING CAN BE DISPLAYED BETWEEN QUOTES
   
   # IF ELSE CONDITION USED AS EXAMPLES USED IN MAIN ACTIVITY (KOTLIN FILE )
    
@@ -144,7 +144,7 @@ here it changes the user input and change of text size and colors ,audio if appl
 
 # FUNCTONALITY OR FUNCTIONS USED  
 
-# android manifest it describes of android app name and themes used and versions given,label app name icon image ,resolution size etc...
+ android manifest it describes of android app name and themes used and versions given,label app name icon image ,resolution size etc...
 
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
@@ -279,7 +279,7 @@ https://mega.nz/file/FsEyXZKI#qtoE-aF4OY_OZ2P2nyq85T6K8QFafo7wQZb81RvT418
 # FUTURE SCOPE 
 # the future scope is which here mainly in future applications it can be used for many subjects or topics just question data is chnaged ,so that is code free syntax any one with basic kotlin learner can modify and use it for personal use ,thank you ! !
 
-THANK YOU FOR AKSHAT CHOWDARY SIR AND TUSHAR SHARMA SIR
+THANKS TO AKSHAT CHOWDARY SIR AND TUSHAR SHARMA SIR
  
 
 
